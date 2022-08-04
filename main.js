@@ -3,7 +3,7 @@ let hours = 0;
 let minutes = 0;
 let seconds = 0;
 
-const interval;
+let interval;
 let monitor = 0;
 
 function start() {
